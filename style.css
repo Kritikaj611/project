@@ -1,0 +1,26 @@
+#intro{
+    background-color: darksalmon;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: rgb(170, 234, 237);
+}
+#intro h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#owl{
+    background-color: darkseagreen;
+}
+#Butterfly h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#owl h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#Butterfly{
+    background-color: darkkhaki;
+}
